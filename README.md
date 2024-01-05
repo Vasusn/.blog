@@ -72,7 +72,8 @@ Customize the website by modifying the configuration files in the `src/config` d
 
 ## Deployment
 
-Deploy the website on vercel `https://blog-canvass.vercel.app/`
+Deploy the website on vercel [.blog](https://blog-canvass.vercel.app/)
+
 
 ---
 
